@@ -4,7 +4,7 @@ Do (More!)
 ## Live Example
 TODO
 
-## Pre Install
+## Installation
 Clone this repository then follow the installation instructions!
 
 If you want to depoly from the command line simply use ``npm i domogami`` in the folder you wisth to include the projects files.
@@ -15,9 +15,8 @@ Just want the ACTS system and not the whole framework?  Grab the js file from th
 Min [https://cdn.jsdelivr.net/npm/domogami/src/js/stable/domogami.min.js](https://cdn.jsdelivr.net/npm/domogami/src/js/stable/domogami.min.js)
 
 
-## Installation
-
-TODO
+## Deployment
+Follow the instructions found in the deployment folder.
 
 ## API Documentation
 
