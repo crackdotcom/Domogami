@@ -1,0 +1,26 @@
+{
+  "name": "domogami",
+  "version": "0.0.1",
+  "description": "Do.(more!)",
+  "main": "src/js/stable/domogami.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crackdotcom/Domogami.git"
+  },
+  "keywords": [
+    "PHP",
+    "Framework",
+    "boilerplate",
+    "single-page",
+    "apps"
+  ],
+  "author": "Digital-Origami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crackdotcom/Domogami/issues"
+  },
+  "homepage": "https://github.com/crackdotcom/Domogami#readme"
+}
